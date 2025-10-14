@@ -1,8 +1,8 @@
 
 package ar.edu.unlu.poo.labo2.artefactos;
 
-import ar.edu.unlu.poo.labo2.artefacto.Artefacto;
-import ar.edu.unlu.poo.labo2.artefacto.CatalogoArtefactos;
+import ar.edu.unlu.poo.labo2.artefactos.Artefacto;
+import ar.edu.unlu.poo.labo2.artefactos.CatalogoArtefactos.CatalogoArtefactos;
 import ar.edu.unlu.poo.labo2.estrategias.*;
 
 import org.junit.jupiter.api.BeforeEach;

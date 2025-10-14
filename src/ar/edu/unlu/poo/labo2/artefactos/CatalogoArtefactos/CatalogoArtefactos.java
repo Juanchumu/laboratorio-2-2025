@@ -21,7 +21,7 @@ public class CatalogoArtefactos {
     conjuntoDeEstrategias.add(estrategia);
 	}
 
-	void aplicarMejoras(){
+	public void aplicarMejoras(){
 		for (EstrategiaDeMejora estrategia : conjuntoDeEstrategias){
 			for (Artefacto artefacto : conjuntoDeArtefactos) {
 				estrategia.mejorar(artefacto);
