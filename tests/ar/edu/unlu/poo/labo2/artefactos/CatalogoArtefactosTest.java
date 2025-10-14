@@ -1,5 +1,6 @@
 package ar.edu.unlu.poo.labo2.artefactos;
 
+import ar.edu.unlu.poo.labo2.artefactos;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
