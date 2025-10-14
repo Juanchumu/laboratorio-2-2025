@@ -1,5 +1,5 @@
 
-package PMM;
+package ar.edu.unlu.poo.labo2.artefactos;
 
 import ar.edu.unlu.poo.labo2.artefacto.Artefacto;
 import ar.edu.unlu.poo.labo2.artefacto.CatalogoArtefactos;

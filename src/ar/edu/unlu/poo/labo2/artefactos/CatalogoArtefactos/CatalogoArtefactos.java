@@ -1,5 +1,7 @@
-package ar.edu.unlu.poo.labo2.artefactos;
+package ar.edu.unlu.poo.labo2.artefactos.CatalogoArtefactos;
 
+import ar.edu.unlu.poo.labo2.artefactos.Artefacto;
+import ar.edu.unlu.poo.labo2.estrategias.EstrategiaDeMejora;
 
 import java.util.*;
 
