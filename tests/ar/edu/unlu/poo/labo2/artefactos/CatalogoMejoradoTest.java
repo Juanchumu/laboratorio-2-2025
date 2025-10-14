@@ -1,10 +1,9 @@
-package ar.edu.unlu.poo.labo2.artefactos;
 
-import ar.edu.unlu.poo.labo2.artefactos.Artefacto;
-import ar.edu.unlu.poo.labo2.artefactos.CatalogoArtefactos;
-import ar.edu.unlu.poo.labo2.estrategias.EstrategiaDeMejora;
-import ar.edu.unlu.poo.labo2.estrategias.ForjadorDeRunas;
-import ar.edu.unlu.poo.labo2.estrategias.JoyeroElfico;
+package PMM;
+
+import ar.edu.unlu.poo.labo2.artefacto.Artefacto;
+import ar.edu.unlu.poo.labo2.artefacto.CatalogoArtefactos;
+import ar.edu.unlu.poo.labo2.estrategias.*;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
@@ -19,6 +18,7 @@ class CatalogoMejoradoTest {
   private Artefacto amuletoDebil;
   private Artefacto amuletoFuerte;
   private Artefacto pergaminoSimple;
+  private Artefacto pergaminoInutil;
   private Artefacto pergaminoComplejo;
   private Artefacto pocionCurativa;
   private Artefacto pocionPoderosa;
@@ -29,6 +29,7 @@ class CatalogoMejoradoTest {
     amuletoDebil = new Artefacto("Colgante de Valor", 40, "Amuleto");
     amuletoFuerte = new Artefacto("Amuleto de los Reyes", 80, "Amuleto");
     pergaminoSimple = new Artefacto("Hechizo de Luz", 20, "Pergamino");
+    pergaminoInutil = new Artefacto("Hechizo de Luz", 10, "Pergamino");
     pergaminoComplejo = new Artefacto("Invocación Mayor", 50, "Pergamino");
     pocionCurativa = new Artefacto("Poción de Salud", 30, "Poción");
     pocionPoderosa = new Artefacto("Elixir de Gigante", 85, "Poción");
