@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Tomas Agustin Coll (186116) - tomasagustincoll@gmail.com
+- Juan Jara (199595) - ricard9045@gmail.com
 
 # Contexto / Escenario
 
