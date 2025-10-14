@@ -1,4 +1,4 @@
-package ar.edu.unlu.poo.labo2.artefactos;
+package ar.edu.unlu.poo.labo2.estrategias;
 
 public class ForjadorDeRunas implements EstrategiaDeMejora {
 	int incremento;
